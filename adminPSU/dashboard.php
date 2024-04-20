@@ -2,7 +2,7 @@
 include('header.php');
 include('session.php');
 ?>
-<body id="home">
+<body>
     <?php include('navbar.php') ?>
     <div class="container-fluid">
         <div class="row-fluid">
